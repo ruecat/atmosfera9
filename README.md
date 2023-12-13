@@ -1,17 +1,18 @@
 # Atmosfèra
 **Atmosfèra *[Català]*** - *"Atmos"* meaning air, and *"Fera"* meaning sphere.
-## What versions are compatible?
-- [x] WatchOS 9.0 - 9.6.2
-- [ ] WatchOS 9.6.2 and higher
-- [ ] WatchOS 9.0 and lower
-## Installation
-- Only compilation method is possible for now. Follow future updates.
-## FAQ
-- **Q:** Minio package manager dissapeared!
-- **A:** Force reboot device and rejailbreak, it's a **known issue.**
+**Project will be rolled back and archived**
+## <del>What versions are compatible?<del>
+- [x] <del>WatchOS 9.0 - 9.6.2<del>
+- [ ] <del>WatchOS 9.6.2 and higher<del>
+- [ ] <del>WatchOS 9.0 and lower<del>
+## <del>Installation<del>
+- Only compilation method <del>is possible for<del> now. <del>Follow future updates.<del>
+## <del>FAQ<del>
+- <del>**Q:** Minio package manager dissapeared!<del>
+- <del>**A:** Force reboot device and rejailbreak, it's a **known issue.**<del>
 ---
-- **Q:** Watch Face turned black/red, what should I do?
-- **A:** Open Minio->Settings->Refresh Tweaks
+- <del>**Q:** Watch Face turned black/red, what should I do?<del>
+- <del>**A:** Open Minio->Settings->Refresh Tweaks<del>
 ---
-- **Q:** SourceERR0/1, why I can refresh sources?
-- **A:** No internet connection, or one of the repos is down, check logs in Minio.
+- <del>**Q:** SourceERR0/1, why I can refresh sources?<del>
+- <del>**A:** No internet connection, or one of the repos is down, check logs in Minio.<del>
